@@ -13,7 +13,7 @@
   `apt-get update -y`
 
 - Install Jenkins 
-  `apt-get install jenkin -y`
+  `apt-get install jenkins -y`
 
 - Access Jenkins web console at <ipaddress:port>
 
