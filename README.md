@@ -14,3 +14,8 @@
 
 - Install Jenkins 
   `apt-get install jenkin -y`
+
+- Access Jenkins web console at <ipaddress:port>
+
+- Fetch initialAdministrator password
+    `cat /var/lib/jenkins/secrets/initialAdminPassword`
